@@ -1,0 +1,27 @@
+{
+  "name": "chopstick-settings",
+  "description": "Chopstick settings layer",
+  "keywords": [
+    "front-end",
+    "settings",
+    "css",
+    "scss",
+    "framework",
+    "ITCSS"
+  ],
+  "version": "0.7.0",
+  "author": {
+    "name" : "Wijs",
+    "email" : "info@wijs.be",
+    "url" : "http://wijs.be/"
+  },
+  "homepage": "http://getchopstick.com/",
+  "bugs": {
+      "url" : "https://github.com/getchopstick/chopstick-settings/issues",
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:getchopstick/chopstick-settings.git"
+  }
+}
