@@ -55,4 +55,4 @@ $palettes: (
         base                : $color-notice,
         dark                : hsl(hue($color-notice),100,35),
     )
-);
+) !default;
